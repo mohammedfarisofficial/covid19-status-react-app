@@ -11,8 +11,8 @@ export default class Header extends Component {
                     </div>
                     <div className="nav-section">
                         <nav className="nav-links">
-                            <div><a href="#">india</a></div>
-                            <div><a href="#">world</a></div>
+                            {/* <div><a href="#">india</a></div>
+                            <div><a href="#">world</a></div> */}
                         </nav>
                     </div>
                 </div> 
